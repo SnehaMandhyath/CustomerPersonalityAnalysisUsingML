@@ -58,7 +58,6 @@ This project contributes to the field by providing a detailed understanding of c
 Future Work:
 For future research or further investigation, several areas warrant exploration. Firstly, conducting longitudinal studies to track changes in spending behaviors over time can provide insights into evolving consumer trends and preferences. Additionally, incorporating additional variables such as psychographic traits or geographic location could further refine customer segmentation and enhance the effectiveness of targeted marketing strategies. Furthermore, exploring the impact of external factors such as economic conditions or market trends on customer behavior would enrich our understanding of consumer dynamics and inform strategic decision-making processes. Overall, continued research in this area has the potential to drive innovation and foster growth in the field of data-driven marketing and customer analytics.
 
-
 REFERENCES
 
 1.Smith, A. (2023). Customer Personality Analysis: Understanding Consumer Segmentation for Targeted Marketing. ABC Publishing.
